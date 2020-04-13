@@ -1,5 +1,5 @@
 ---
-title: "Mi Blog Personal".
+title: "Mi Blog Personal"
 date: 2020-04-13.
 ---
 HOLA A TODOS.
